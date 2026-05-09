@@ -1,0 +1,14 @@
+{
+  "name": "Shehri-Agent",
+  "description": "AI-powered legal assistant for Pakistani citizens, offering guidance in Urdu and generating formal complaints in English for various authorities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Legal Guidance",
+    "Multi-lingual Support (Urdu, Sindhi, English)",
+    "Document Scanning",
+    "Formal Complaint Generation"
+  ]
+}
